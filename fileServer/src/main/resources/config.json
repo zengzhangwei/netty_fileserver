@@ -1,0 +1,16 @@
+{
+  "cassandra":[
+    "172.24.65.144"
+      ],
+      "hostIp":"127.0.0.1",
+      "hostPort":8080,
+      "fileDir":"/data/tmp",
+      "httpCacheSeconds":60,
+      "chunkSize":1048576,
+      "sizeInMemory":10485760,
+      "getDataLengthEachTime":10485760,
+      "maxFileLengthInMemory":104857600,
+      "tikaDetectSize":10485760,
+      "tempFileDir":"C:\\Users\\scream\\Desktop\\temp",
+      "bizThreadSize":100
+}
